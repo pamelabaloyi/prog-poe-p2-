@@ -1,0 +1,3 @@
+#progpoe
+the Application is working correct. the user will enter the name of recipe then enter it ingredients and steps the program will the full recipe when the user use the app, the app will first ask the user to enter unlimited number of recipes. the loop is going loop through accprding to the number entered by the user when the user has entered the recipe it will display in alaphabetical order. then the user will choice which recipe name to view it details. the user will enter number of calories when the user has exceed 3oo it will notify them. after it has calculated the total opf the calories.
+the application is working fine without any problem.
